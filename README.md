@@ -40,7 +40,7 @@ Currently, the repository is incomplete. For those with limited knowledge about 
 ## Neural Hawkes processes
 - \[14\] Mei, H., & Eisner, J. M. (2017). [The neural Hawkes process: A neurally self-modulating multivariate point process](https://proceedings.neurips.cc/paper_files/paper/2017/hash/6463c88460bd63bbe256e495c63aa40b-Abstract.html). _Advances in Neural Information Processing Systems_, 30.
 - \[15\] Du, N., Dai, H., Trivedi, R., Upadhyay, U., Gomez-Rodriguez, M., & Song, L. (2016). [Recurrent marked temporal point processes: Embedding event history to vector](https://doi.org/10.1145/2939672.2939875). In _Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining_ (pp. 1555-1564). [\[Code\]](https://github.com/dunan/NeuralPointProcess)
-- \[16]\] Zuo, S., Jiang, H., Li, Z., Zhao, T., & Zha, H. (2020). [Transformer Hawkes process](https://proceedings.mlr.press/v119/zuo20a.html). In _Proceedings of the 37th International Conference on Machine Learning_, PMLR 119:11692-11702. [\[Code\]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process)
+- \[16\] Zuo, S., Jiang, H., Li, Z., Zhao, T., & Zha, H. (2020). [Transformer Hawkes process](https://proceedings.mlr.press/v119/zuo20a.html). In _Proceedings of the 37th International Conference on Machine Learning_, PMLR 119:11692-11702. [\[Code\]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process)
 
 ## Applications
 - Earthquake modeling:
