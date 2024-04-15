@@ -32,4 +32,5 @@ Hawkes processes
 - Social media
 - Criminology
 - Finance
+-   Aït-Sahalia, Y., Cacho-Diaz, J., & Laeven, R. J. (2015). [Modeling financial contagion using mutually exciting jump processes](https://doi.org/10.1016/j.jfineco.2015.03.002). _Journal of Financial Economics_, 117(3), 585-606.
 - Epidemiology
