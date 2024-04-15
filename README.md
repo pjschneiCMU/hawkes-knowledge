@@ -13,9 +13,9 @@ Hawkes processes
 - \[5\] Rizoiu, M. A., Lee, Y., Mishra, S., & Xie, L. (2017). [Hawkes processes for events in social media](https://doi.org/10.1145/3122865.3122874). In _Frontiers of multimedia research_ (pp. 191-218).
 
 ## Literature Reviews
-- Review of Hawkes processes:
+- Overview of Hawkes processes:
   - \[6\] Lima, R. (2023). [Hawkes processes modeling, inference, and control: An overview](https://doi.org/10.1137/21M1396927). _SIAM Review_, 65(2), 331-374.
-- Review with a focus spatio-temporal processes:
+- Review with a focus on spatio-temporal processes:
   - \[7\] Reinhart, A. (2018). [A review of self-exciting spatio-temporal point processes and their applications](https://doi.org/10.1214/17-STS629). _Statistical Science_, 33(3), 299-318.
 - Reviews with a focus on financial applications:
   - \[8\] Hawkes, A. G. (2018). [Hawkes processes and their applications to finance: a review](https://doi.org/10.1080/14697688.2017.1403131). _Quantitative Finance_, 18(2), 193-198.
