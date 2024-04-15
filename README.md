@@ -15,7 +15,7 @@ Hawkes processes
   - \[5\] Hawkes, A. G. (2022). [Hawkes jump-diffusions and finance: a brief history and review](https://doi.org/10.1080/1351847X.2020.1755712). _European Journal of Finance_, 28(7), 627-641.
 
 ## Simulation
-- ...
+- \[6\] Ogata, Y. (1981). [On Lewis' simulation method for point processes](https://doi.org/10.1109/TIT.1981.1056305). _IEEE Transactions on Information Theory_, 27(1), 23-31.
 
 ## Statistical Inference
 - Maximimum-likelihood estimation (MLE)
