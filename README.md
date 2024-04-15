@@ -4,7 +4,7 @@ Hawkes processes
 ## Statistical Inference
 - Maximimum-likelihood estimation (MLE)
 - Expectation maximization (EM)
-- 
+- Non-parametric estimation
 - 
 
 ## Applications
