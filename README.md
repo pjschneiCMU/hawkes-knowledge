@@ -23,6 +23,10 @@ Hawkes processes
 - Non-parametric estimation
 - ...
 
+## Neural Hawkes processes
+- ...
+- ...
+
 ## Applications
 - Earthquake modeling
 - Social media
