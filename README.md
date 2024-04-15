@@ -1,7 +1,7 @@
 # hawkes-knowledge
 Hawkes Processes
 
-# Applications
+## Applications
 
 - Earthquake Modeling
 - Social Media
