@@ -9,7 +9,8 @@ Hawkes processes
 - \[3\] Hawkes, A. G., & Oakes, D. (1974). [A cluster process representation of a self-exciting process](https://doi.org/10.2307/3212693). _Journal of Applied Probability_, 11(3), 493-503.
 
 ## Literature Reviews
-- ...
+- Review with focus spatio-temporal processes:
+  - \[4\] Reinhart, A. (2018). [A review of self-exciting spatio-temporal point processes and their applications](https://doi.org/10.1214/17-STS629). _Statistical Science_, 33(3), 299-318.
 - Reviews with a focus on financial applications:
   - \[4\] Hawkes, A. G. (2018). [Hawkes processes and their applications to finance: a review](https://doi.org/10.1080/14697688.2017.1403131). _Quantitative Finance_, 18(2), 193-198.
   - \[5\] Hawkes, A. G. (2022). [Hawkes jump-diffusions and finance: a brief history and review](https://doi.org/10.1080/1351847X.2020.1755712). _European Journal of Finance_, 28(7), 627-641.
