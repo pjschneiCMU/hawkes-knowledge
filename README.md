@@ -2,8 +2,8 @@
 Hawkes processes
 
 ## Statistical Inference
-- Maximimum-likelihood estimation
-- Expectation maximization
+- Maximimum-likelihood estimation (MLE)
+- Expectation maximization (EM)
 - 
 - 
 
