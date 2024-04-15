@@ -1,4 +1,4 @@
-# Hawkes-knowledge - Knowledge base for Hawkes processes
+# Hawkes-Knowledge: Exploring the Dynamics of Hawkes Processes
 
 This repository provides an overview of papers on Hawkes processes, tailored primarily for researchers. Our aim is to categorize papers into different applications, provide links to official and unofficial code resources, and explore the general properties of Hawkes processes.
 
