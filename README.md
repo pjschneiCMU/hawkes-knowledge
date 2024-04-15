@@ -9,19 +9,20 @@ Hawkes processes
 - \[3\] Hawkes, A. G., & Oakes, D. (1974). [A cluster process representation of a self-exciting process](https://doi.org/10.2307/3212693). _Journal of Applied Probability_, 11(3), 493-503.
 
 ## Books & Book Chapters
-- \[4] Laub, P. J., Lee, Y., & Taimre, T. (2021). [_The elements of Hawkes processes_](https://doi.org/10.1007/978-3-030-84639-8). New York: Springer. [\[Code\]](https://github.com/Pat-Laub/hawkesbook)
+- \[4\] Laub, P. J., Lee, Y., & Taimre, T. (2021). [_The elements of Hawkes processes_](https://doi.org/10.1007/978-3-030-84639-8). New York: Springer. [\[Code\]](https://github.com/Pat-Laub/hawkesbook)
+- \[5\] Rizoiu, M. A., Lee, Y., Mishra, S., & Xie, L. (2017). [Hawkes processes for events in social media](https://doi.org/10.1145/3122865.3122874). In _Frontiers of multimedia research_ (pp. 191-218).
 
 ## Literature Reviews
 - Review of Hawkes processes:
-  - \[5\] 
+  - \[6\] Lima, R. (2023). [Hawkes processes modeling, inference, and control: An overview](https://doi.org/10.1137/21M1396927). _SIAM Review_, 65(2), 331-374.
 - Review with a focus spatio-temporal processes:
-  - \[5\] Reinhart, A. (2018). [A review of self-exciting spatio-temporal point processes and their applications](https://doi.org/10.1214/17-STS629). _Statistical Science_, 33(3), 299-318.
+  - \[7\] Reinhart, A. (2018). [A review of self-exciting spatio-temporal point processes and their applications](https://doi.org/10.1214/17-STS629). _Statistical Science_, 33(3), 299-318.
 - Reviews with a focus on financial applications:
-  - \[6\] Hawkes, A. G. (2018). [Hawkes processes and their applications to finance: a review](https://doi.org/10.1080/14697688.2017.1403131). _Quantitative Finance_, 18(2), 193-198.
-  - \[7\] Hawkes, A. G. (2022). [Hawkes jump-diffusions and finance: a brief history and review](https://doi.org/10.1080/1351847X.2020.1755712). _European Journal of Finance_, 28(7), 627-641.
+  - \[8\] Hawkes, A. G. (2018). [Hawkes processes and their applications to finance: a review](https://doi.org/10.1080/14697688.2017.1403131). _Quantitative Finance_, 18(2), 193-198.
+  - \[9\] Hawkes, A. G. (2022). [Hawkes jump-diffusions and finance: a brief history and review](https://doi.org/10.1080/1351847X.2020.1755712). _European Journal of Finance_, 28(7), 627-641.
 
 ## Simulation
-- \[8\] Ogata, Y. (1981). [On Lewis' simulation method for point processes](https://doi.org/10.1109/TIT.1981.1056305). _IEEE Transactions on Information Theory_, 27(1), 23-31.
+- \[10\] Ogata, Y. (1981). [On Lewis' simulation method for point processes](https://doi.org/10.1109/TIT.1981.1056305). _IEEE Transactions on Information Theory_, 27(1), 23-31.
 
 ## Statistical Inference
 - Maximimum-likelihood estimation (MLE)
