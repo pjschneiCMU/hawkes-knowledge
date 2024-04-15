@@ -1,10 +1,16 @@
 # hawkes-knowledge
-Hawkes Processes
+Hawkes processes
+
+## Statistical Inference
+- Maximimum-likelihood estimation
+- Expectation maximization
+- 
+- 
 
 ## Applications
 
-- Earthquake Modeling
-- Social Media
+- Earthquake modeling
+- Social media
 - Criminology
 - Finance
 - Epidemiology
