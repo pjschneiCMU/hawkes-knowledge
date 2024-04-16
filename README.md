@@ -15,6 +15,7 @@ Currently, the repository is incomplete. For those with limited knowledge about 
 - [5] Rizoiu, M. A., Lee, Y., Mishra, S., & Xie, L. (2017). [Hawkes processes for events in social media](https://doi.org/10.1145/3122865.3122874). In _Frontiers of multimedia research_ (pp. 191-218).
 
 ## Literature Reviews
+If you're searching for a reference and not interested in reading a book, here are a couple of literature reviews, with most focusing on a selected topic:
 - Overview of Hawkes processes:
   - [6] Lima, R. (2023). [Hawkes processes modeling, inference, and control: An overview](https://doi.org/10.1137/21M1396927). _SIAM Review_, 65(2), 331-374.
 - Review with a focus on spatio-temporal processes:
@@ -31,6 +32,7 @@ Currently, the repository is incomplete. For those with limited knowledge about 
 - [13] Dassios, A., & Zhao, H. (2013). [Exact simulation of Hawkes process with exponentially decaying intensity](https://doi.org/10.1214/ECP.v18-2717). _Electron. Commun. Probab._, 18, 1-13
 
 ## Statistical Inference
+Fitting Hawkes processes is a notoriously difficult task. The selection of a statistical inference method should always depend on the amount of data at hand, the specific application domain, and the task to be accomplished. General statistical inference methods include the following:
 - Maximimum-likelihood estimation (MLE)
   - [14] Ogata, Y. (1978). [The asymptotic behaviour of maximum likelihood estimators for stationary point processes](https://doi.org/10.1007/BF02480216). _Ann. Inst. Statist. Math_, 30, 243-261
 - Expectation maximization (EM)
@@ -40,7 +42,6 @@ Currently, the repository is incomplete. For those with limited knowledge about 
   - [16] Bacry, E., & Muzy, J. F. (2016). [First-and second-order statistics characterization of Hawkes processes and non-parametric estimation](https://doi.org/10.1109/TIT.2016.2533397). _IEEE Transactions on Information Theory_, 62(4), 2184-2202.
   - [17] Kirchner, M. (2017). [An estimation procedure for the Hawkes process](https://doi.org/10.1080/14697688.2016.1211312). _Quantitative Finance_, 17(4), 571-595.
   - [18] Achab, M., Bacry, E., Gaïffas, S., Mastromatteo, I., & Muzy, J. F. (2017). [Uncovering causality from multivariate Hawkes integrated cumulants](https://proceedings.mlr.press/v70/achab17a.html). In _Proceedings of the 34th International Conference on Machine Learning_, PMLR 70:1-10. [\[Code\]](https://github.com/achab/nphc)
-
 - ...
 
 ## Neural Hawkes processes
@@ -50,6 +51,7 @@ Currently, the repository is incomplete. For those with limited knowledge about 
 - [22] Zuo, S., Jiang, H., Li, Z., Zhao, T., & Zha, H. (2020). [Transformer Hawkes process](https://proceedings.mlr.press/v119/zuo20a.html). In _Proceedings of the 37th International Conference on Machine Learning_, PMLR 119:11692-11702. [\[Code\]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process)
 
 ## Applications
+In the following, we aim to highlight the general applicability of Hawkes processes to a plethora of applications. The provided references represent just a hand-selected subset of publications. In the subdirectories, we strive to provide a more comprehensive overview of the significant contributions towards adopting Hawkes processes.
 - Earthquake modeling:
   - [23] Ogata, Y. (1988). [Statistical models for earthquake occurrences and residual analysis for point processes](https://doi.org/10.1080/01621459.1988.10478560). _Journal of the American Statistical Association_, 83(401), 9-27.
 - Social media:
