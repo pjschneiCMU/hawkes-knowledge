@@ -10,6 +10,9 @@ Currently, the repository is incomplete. For those with limited knowledge about 
 - [2] Hawkes, A. G. (1971). [Point spectra of some mutually exciting point processes](https://doi.org/10.1111/j.2517-6161.1971.tb01530.x). _Journal of the Royal Statistical Society Series B: Statistical Methodology_, 33(3), 438-443.
 - [3] Hawkes, A. G., & Oakes, D. (1974). [A cluster process representation of a self-exciting process](https://doi.org/10.2307/3212693). _Journal of Applied Probability_, 11(3), 493-503.
 
+Fascinating insights into the personal history of Hawkes processes:
+> Hawkes, A., & Chen, J. (2021). [A personal history of Hawkes process](https://orca.cardiff.ac.uk/id/eprint/141988/1/hawkes2021toukeisuuri-1st-submission%5B1%5D.pdf). _Proceedings of the Institute of Statistical Mathematics_ (統計数理), 69(2), 123-143.
+
 ## Books & Book Chapters
 - [4] Laub, P. J., Lee, Y., & Taimre, T. (2021). [_The elements of Hawkes processes_](https://doi.org/10.1007/978-3-030-84639-8). New York: Springer. [\[Code\]](https://github.com/Pat-Laub/hawkesbook)
 - [5] Rizoiu, M. A., Lee, Y., Mishra, S., & Xie, L. (2017). [Hawkes processes for events in social media](https://doi.org/10.1145/3122865.3122874). In _Frontiers of multimedia research_ (pp. 191-218).
