@@ -14,7 +14,7 @@ Stay tuned for what's to come!
 - [8] Bacry, E., & Muzy, J. F. (2014). [Hawkes model for price and trades high-frequency dynamics](https://doi.org/10.1080/14697688.2014.897000). _Quantitative Finance_, 14(7), 1147-1166.
 - [9] Cartea, Á., Jaimungal, S., & Ricci, J. (2014). [Buy low, sell high: A high frequency trading perspective](https://doi.org/10.1137/130911196). _SIAM Journal on Financial Mathematics_, 5(1), 415-444.
 - [10] Zheng, B., Roueff, F., & Abergel, F. (2014). [Modelling bid and ask prices using constrained Hawkes processes: Ergodicity and scaling limit](https://doi.org/10.1137/130912980). _SIAM Journal on Financial Mathematics_, 5(1), 99-136.
-- [11]Hardiman, S. J., & Bouchaud, J. P. (2014). [Branching-ratio approximation for the self-exciting Hawkes process](https://doi.org/10.1103/PhysRevE.90.062807). Physical Review E, 90(6), 062807.
+- [11] Hardiman, S. J., & Bouchaud, J. P. (2014). [Branching-ratio approximation for the self-exciting Hawkes process](https://doi.org/10.1103/PhysRevE.90.062807). _Physical Review E_, 90(6), 062807.
 - [12] Bacry, E., Mastromatteo, I., & Muzy, J. F. (2015). [Hawkes processes in finance](https://doi.org/10.1142/S2382626615500057). _Market Microstructure and Liquidity_, 1(01), 1550005.
 - [13] Aït-Sahalia, Y., Cacho-Diaz, J., & Laeven, R. J. (2015). [Modeling financial contagion using mutually exciting jump processes](https://doi.org/10.1016/j.jfineco.2015.03.002). _Journal of Financial Economics_, 117(3), 585-606.
 - [14] Rambaldi, M., Pennesi, P., & Lillo, F. (2015). [Modeling foreign exchange market activity around macroeconomic news: Hawkes-process approach](https://doi.org/10.1103/PhysRevE.91.012819). _Physical Review E_, 91(1), 012819.
