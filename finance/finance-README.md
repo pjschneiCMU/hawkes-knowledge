@@ -5,6 +5,7 @@ In this subdirectory, our aim is to provide a comprehensive overview of how Hawk
 Stay tuned for what's to come!
 
 - [1] Errais, E., Giesecke, K., & Goldberg, L. R. (2010). [Affine point processes and portfolio credit risk](https://doi.org/10.1137/090771272). _SIAM Journal on Financial Mathematics_, 1(1), 642-665.
+- [2] Embrechts, P., Liniger, T., & Lin, L. (2011). [Multivariate Hawkes processes: An application to financial data](https://doi.org/10.1239/jap/1318940477). _Journal of Applied Probability_, 48(A), 367-378.
 - [2] Bacry, E., Delattre, S., Hoffmann, M., & Muzy, J. F. (2013). [Some limit theorems for Hawkes processes and application to financial statistics](https://doi.org/10.1016/j.spa.2013.04.007). _Stochastic Processes and their Applications_, 123(7), 2475-2499.
 - [3] Hardiman, S. J., Bercot, N., & Bouchaud, J. P. (2013). [Critical reflexivity in financial markets: A Hawkes process analysis](https://doi.org/10.1140/epjb/e2013-40107-3). _European Physical Journal B_, 86, 1-9.
 - [4] Zheng, B., Roueff, F., & Abergel, F. (2014). [Modelling bid and ask prices using constrained Hawkes processes: Ergodicity and scaling limit](https://doi.org/10.1137/130912980). _SIAM Journal on Financial Mathematics_, 5(1), 99-136.
