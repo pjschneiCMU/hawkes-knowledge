@@ -35,6 +35,7 @@ Stay tuned for what's to come!
 - [29] Fosset, A., Bouchaud, J. P., & Benzaquen, M. (2022). [Non-parametric estimation of quadratic Hawkes processes for order book events](https://doi.org/10.1080/1351847X.2021.1917441). _European Journal of Finance_, 28(7), 663-678.
 - [30] Kirchner, M., & Vetter, S. (2022). [Hawkes model specification for limit order books](https://doi.org/10.1080/1351847X.2020.1784974). _European Journal of Finance_, 28(7), 642-662.
 - [31] Gašperov, B., & Kostanjčar, Z. (2022). [Deep reinforcement learning for market making under a Hawkes process-based limit order book model](https://doi.org/10.1109/LCSYS.2022.3166446). _IEEE Control Systems Letters_, 6, 2485-2490.
-- [32] Hawkes, A. G. (2022). [Hawkes jump-diffusions and finance: A brief history and review](https://doi.org/10.1080/1351847X.2020.1755712). _European Journal of Finance_, 28(7), 627-641.
-- [33] Mark, M., Sila, J., & Weber, T. A. (2022). [Quantifying endogeneity of cryptocurrency markets](https://doi.org/10.1080/1351847X.2020.1791925). _European Journal of Finance_, 28(7), 784-799.
-- [34] Bondi, A., Pulido, S., & Scotti, S. (2024). [The rough Hawkes Heston stochastic volatility model](https://doi.org/10.1111/mafi.12432). _Mathematical Finance_, 1–45.
+- [32] Chen, J., Taylor, N., Yang, S., & Han, Q. (2022). [Hawkes processes in finance: Market structure and impact](https://doi.org/10.1080/1351847X.2022.2060755). _European Journal of Finance_, 28(7), 621-626.
+- [33] Hawkes, A. G. (2022). [Hawkes jump-diffusions and finance: A brief history and review](https://doi.org/10.1080/1351847X.2020.1755712). _European Journal of Finance_, 28(7), 627-641.
+- [34] Mark, M., Sila, J., & Weber, T. A. (2022). [Quantifying endogeneity of cryptocurrency markets](https://doi.org/10.1080/1351847X.2020.1791925). _European Journal of Finance_, 28(7), 784-799.
+- [35] Bondi, A., Pulido, S., & Scotti, S. (2024). [The rough Hawkes Heston stochastic volatility model](https://doi.org/10.1111/mafi.12432). _Mathematical Finance_, 1–45.
