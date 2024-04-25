@@ -30,3 +30,8 @@ Kanazawa, K., & Sornette, D. (2021). [Ubiquitous power law scaling in nonlinear 
 [23] Kirchner, M., & Vetter, S. (2022). [Hawkes model specification for limit order books](https://doi.org/10.1080/1351847X.2020.1784974). _European Journal of Finance_, 28(7), 642-662.
 [24] Gašperov, B., & Kostanjčar, Z. (2022). [Deep reinforcement learning for market making under a Hawkes process-based limit order book model](https://doi.org/10.1109/LCSYS.2022.3166446). _IEEE Control Systems Letters_, 6, 2485-2490.
 [25] Bondi, A., Pulido, S., & Scotti, S. (2024). [The rough Hawkes Heston stochastic volatility model](https://doi.org/10.1111/mafi.12432). _Mathematical Finance_, 1–45.
+
+[35] Aït-Sahalia, Y., Cacho-Diaz, J., & Laeven, R. J. (2015). [Modeling financial contagion using mutually exciting jump processes](https://doi.org/10.1016/j.jfineco.2015.03.002). _Journal of Financial Economics_, 117(3), 585-606.
+  - [36] Rambaldi, M., Pennesi, P., & Lillo, F. (2015). [Modeling foreign exchange market activity around macroeconomic news: Hawkes-process approach](https://doi.org/10.1103/PhysRevE.91.012819). _Physical Review E_, 91(1), 012819.
+  - [37] Mark, M., Sila, J., & Weber, T. A. (2022). [Quantifying endogeneity of cryptocurrency markets](https://doi.org/10.1080/1351847X.2020.1791925). _European Journal of Finance_, 28(7), 784-799.
+
