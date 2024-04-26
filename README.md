@@ -36,8 +36,10 @@ If you're searching for a reference and not interested in reading a book, here a
 
 ## Theoretical Properties
 - [14] Oakes, D. (1975). [The Markovian self-exciting process](https://doi.org/10.2307/3212408). _Journal of Applied Probability_, 12(1), 69-77.
+- Brémaud, P., & Massoulié, L. (1996). [Stability of nonlinear Hawkes processes](https://doi.org/10.1214/aop/1065725193}). _Annals of Probability_, 1563-1588.
 - [15] Jovanović, S., Hertz, J., & Rotter, S. (2015). [Cumulants of Hawkes point processes](https://doi.org/10.1103/PhysRevE.91.042802). _Physical Review E_, 91(4), 042802.
 - [16] Cui, L., Hawkes, A., & Yi, H. (2020). [An elementary derivation of moments of Hawkes processes](https://doi.org/10.1017/apr.2019.53). _Advances in Applied Probability_, 52(1), 102-137.
+- 
 
 ## Simulation
 - [17] Ogata, Y. (1981). [On Lewis' simulation method for point processes](https://doi.org/10.1109/TIT.1981.1056305). _IEEE Transactions on Information Theory_, 27(1), 23-31.
