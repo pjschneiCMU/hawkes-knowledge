@@ -36,7 +36,7 @@ If you're searching for a reference and not interested in reading a book, here a
 
 ## Theoretical Properties
 - [14] Oakes, D. (1975). [The Markovian self-exciting process](https://doi.org/10.2307/3212408). _Journal of Applied Probability_, 12(1), 69-77.
-- [15] Brémaud, P., & Massoulié, L. (1996). [Stability of nonlinear Hawkes processes](https://doi.org/10.1214/aop/1065725193}). _Annals of Probability_, 1563-1588.
+- [15] Brémaud, P., & Massoulié, L. (1996). [Stability of nonlinear Hawkes processes](https://doi.org/10.1214/aop/1065725193). _Annals of Probability_, 24(3), 1563-1588.
 - [16] Brémaud, P., Nappo, G., & Torrisi, G. L. (2002). [Rate of convergence to equilibrium of marked Hawkes processes](https://doi.org/10.1239/jap/1019737993). _Journal of Applied Probability_, 39(1), 123-136.
 - [17] Zhu, L. (2013). [Central limit theorem for nonlinear Hawkes processes](https://doi.org/10.1239/jap/1378401234). _Journal of Applied Probability_, 50(3), 760-771.
 - [18] Jovanović, S., Hertz, J., & Rotter, S. (2015). [Cumulants of Hawkes point processes](https://doi.org/10.1103/PhysRevE.91.042802). _Physical Review E_, 91(4), 042802.
