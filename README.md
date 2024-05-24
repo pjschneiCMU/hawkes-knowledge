@@ -46,7 +46,7 @@ If you're searching for a reference and not interested in reading a book, here a
 ## Libraries
 As previously mentioned, the book by Laub et al. [4] contains code snippets, and there are code implementations available in the Python package `hawkesbook`, which serves as an accompanying library to the book. Additionally, notable libraries include `tick`, a Python library mainly focusing on the fast simulation and estimation of Hawkes processes, and the `EasyTPP` library, which serves as a benchmarking tool, particularly for "neural" temporal point processes.
 - [21] Bacry, E., Bompaire, M., Deegan, P., Gaïffas, S., & Poulsen, S. V. (2018). [tick: a Python library for statistical learning, with an emphasis on Hawkes processes and time-dependent models](). _Journal of Machine Learning Research_, 18(214), 1-5. [\[Code\]](https://github.com/X-DataInitiative/tick)
-- [22] Xue, S., Shi, X., Chu, Z., Wang, Y., Zhou, F., Hao, H., ... & Mei, H. (2024). [EasyTPP: Towards open benchmarking temporal point processes](https://arxiv.org/abs/2307.08097). In _International Conference on Learning Representations_.
+- [22] Xue, S., Shi, X., Chu, Z., Wang, Y., Zhou, F., Hao, H., ... & Mei, H. (2024). [EasyTPP: Towards open benchmarking temporal point processes](https://arxiv.org/abs/2307.08097). In _International Conference on Learning Representations_. [\[Code\]](https://github.com/ant-research/EasyTemporalPointProcess)
 
 ## Simulation
 - [23] Ogata, Y. (1981). [On Lewis' simulation method for point processes](https://doi.org/10.1109/TIT.1981.1056305). _IEEE Transactions on Information Theory_, 27(1), 23-31.
