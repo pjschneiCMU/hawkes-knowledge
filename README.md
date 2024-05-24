@@ -88,7 +88,7 @@ There are several limitations to modeling temporal point processes for extremely
   - [41] Wheatley, S., Filimonov, V., & Sornette, D. (2016). [The Hawkes process with renewal immigration & its estimation with an EM algorithm](https://doi.org/10.1016/j.csda.2015.08.007). _Computational Statistics & Data Analysis_, 94, 120-135.
   - [42] Chen, F., & Stindl, T. (2018). [Direct likelihood evaluation for the renewal Hawkes process](https://doi.org/10.1080/10618600.2017.1341324). _Journal of Computational and Graphical Statistics_, 27(1), 119-131.
 - Discrete-time Hawkes process
-  - [43] Browning, R., Sulem, D., Mengersen, K., Rivoirard, V., & Rousseau, J. (2021). [Simple discrete-time self-exciting models can describe complex dynamic processes: A case study of COVID-19](https://doi.org/10.1371/journal.pone.0250015). PLOS One, 16(4), e0250015.
+  - [43] Browning, R., Sulem, D., Mengersen, K., Rivoirard, V., & Rousseau, J. (2021). [Simple discrete-time self-exciting models can describe complex dynamic processes: A case study of COVID-19](https://doi.org/10.1371/journal.pone.0250015). _PLOS One_, 16(4), e0250015.
   - [44] Wang, H. (2022). [Limit theorems for a discrete-time marked Hawkes process](https://doi.org/10.1016/j.spl.2022.109368). _Statistics & Probability Letters_, 184, 109368.
   - [45] Wang, H. (2023). [Large and moderate deviations for a discrete-time marked Hawkes process](https://doi.org/10.1080/03610926.2021.2024236). _Communications in Statistics-Theory and Methods_, 52(17), 6037-6062.
 - Recursive extension of Hawkes process
