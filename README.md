@@ -93,7 +93,7 @@ There are several limitations to modeling temporal point processes for extremely
   - [45] Wang, H. (2023). [Large and moderate deviations for a discrete-time marked Hawkes process](https://doi.org/10.1080/03610926.2021.2024236). _Communications in Statistics-Theory and Methods_, 52(17), 6037-6062.
 - Recursive extension of Hawkes process
   - [46] Schoenberg, F. P., Hoffmann, M., & Harrigan, R. J. (2019). [A recursive point process model for infectious diseases](https://doi.org/10.1007/s10463-018-0690-9). _Annals of the Institute of Statistical Mathematics_, 71, 1271-1287.
-- Quadratic Hawkes processes
+- Quadratic Hawkes process
   - [47] Blanc, P., Donier, J., & Bouchaud, J. P. (2017). [Quadratic Hawkes processes for financial prices](https://doi.org/10.1080/14697688.2016.1193215). _Quantitative Finance_, 17(2), 171-188.
   - [48] Aubrun, C., Benzaquen, M., & Bouchaud, J. P. (2023). [Multivariate quadratic Hawkes processes—part I: theoretical analysis](https://doi.org/10.1080/14697688.2023.2178322). _Quantitative Finance_, 23(5), 741-758.
   
