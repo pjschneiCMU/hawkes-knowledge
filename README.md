@@ -2,6 +2,10 @@
 
 This repository provides an overview of papers on Hawkes processes, tailored primarily for researchers. Our aim is to categorize papers into different applications, provide links to official and unofficial code resources, and explore the general properties of Hawkes processes.
 
+A Hawkes process falls under the umbrella term of temporal point processes, which generally model events occurring randomly over time. While the simplest form of these processes is arguably the homogeneous Poisson process, the Hawkes process distinguishes itself due to its main property of self-excitation. This unique feature enables the process to effectively incorporate the influence of past events, thereby giving it a memory of recent activities. This memory is captured in the conditional intensity function, which adjusts the expected rate of future events based on the occurrence of past events. Originally, this led to the process being referred to as a self-exciting point process.
+
+If this sounds Greek to you, don't worry—we will provide you with some resources to learn more!
+
 Currently, the repository is incomplete. For those with limited knowledge about stochastic processes and Hawkes processes, we highly recommend starting with Laub et al. [4] or Rizoiu et al. [5] to familiarize yourself with the basics before delving into the original papers [1, 2, 3].
 <!-- All references are formatted in APA style. -->
 
