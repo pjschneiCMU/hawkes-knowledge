@@ -58,7 +58,7 @@ Fitting Hawkes processes is a notoriously difficult task. The selection of a sta
   - [25] Ogata, Y. (1978). [The asymptotic behaviour of maximum likelihood estimators for stationary point processes](https://doi.org/10.1007/BF02480216). _Annals of the Institute of Statistical Mathematics_, 30, 243-261
   - [26] Ozaki, T. (1979). [Maximum likelihood estimation of Hawkes' self-exciting point processes](https://doi.org/10.1007/BF02480272). _Annals of the Institute of Statistical Mathematics_, 31, 145-155.
 - Expectation maximization (EM)
-  - ... 
+  - [27] Salehi, F., Trouleau, W., Grossglauser, M., & Thiran, P. (2019). [Learning Hawkes processes from a handful of events](https://papers.neurips.cc/paper_files/paper/2019/hash/8767bccb1ff4231a9962e3914f4f1f8f-Abstract.html). _Advances in Neural Information Processing Systems_, 32.
   - [27] Mark, M., & Weber, T. A. (2020). [Robust identification of controlled Hawkes processes](https://doi.org/10.1103/PhysRevE.101.043305). _Physical Review E_, 101(4), 043305.
 - Bayesian
   - [28] Rasmussen, J. G. (2013). [Bayesian inference for Hawkes processes](https://doi.org/10.1007/s11009-011-9272-5). _Methodology and Computing in Applied Probability_, 15, 623-642.
