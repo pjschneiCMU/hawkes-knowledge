@@ -120,3 +120,18 @@ In the following, we aim to highlight the general applicability of Hawkes proces
   - [61] Bertozzi, A. L., Franco, E., Mohler, G., Short, M. B., & Sledge, D. (2020). [The challenges of modeling and forecasting the spread of COVID-19](https://doi.org/10.1073/pnas.2006520117). _Proceedings of the National Academy of Sciences_, 117(29), 16732-16738. [\[Code\]](https://github.com/gomohler/pnas2020)
 - Cyber insurance:
   - [62] Bessy-Roland, Y., Boumezoued, A., & Hillairet, C. (2021). [Multivariate Hawkes process for cyber insurance](https://doi.org/10.1017/S1748499520000093). _Annals of Actuarial Science_, 15(1), 14-39.
+- Advertising:
+  - [63] Xu, L., Duan, J. A., & Whinston, A. (2014). [Path to purchase: A mutually exciting point process model for online advertising and conversion](https://doi.org/10.1287/mnsc.2014.1952). _Management Science_, 60(6), 1392-1412.
+ 
+## PhD Thesis on Hawkes processes
+There have been a couple of entire PhD theses, or at least chapters, focused on Hawkes processes and their extensions.
+- Liniger, T. (2009). [Multivariate Hawkes processes](https://doi.org/10.3929/ethz-a-006037599). \[Doctoral dissertation, ETH Zurich (Switzerland)\].
+- Chehrazi, N. (2013). [Identification and optimization of stochastic systems](http://purl.stanford.edu/zx541yn0318). \[Doctoral dissertation, Stanford University (USA)\].
+- Zhu, L. (2013). [Nonlinear Hawkes processes](https://arxiv.org/pdf/1304.7531). \[Doctoral dissertation, New York University (USA)\].
+- Kirchner, M. (2017). [Perspectives on Hawkes processes](https://doi.org/10.3929/ethz-b-000161487). \[Doctoral dissertation, ETH Zurich (Switzerland)\].
+- Achab, M. (2017). [Learning from sequences with point processes](https://pastel.hal.science/tel-01775239). \[Doctoral dissertation, Université Paris Saclay (France)\].
+- Daw, A. M. (2020). [Batches, bursts, and service systems](https://doi.org/10.7298/sdfc-kg15). \[Doctoral dissertation, Cornell University (USA)\].
+- Trouleau, W. (2021). [Learning self-exciting temporal point processes under noisy observations](https://doi.org/10.5075/epfl-thesis-7143) (Publication No. 7143). \[Doctoral dissertation, EPFL (Switzerland)\].
+- Kong, Q. (2022). [Linking epidemic models and self-exciting processes for online and offline event diffusions](https://doi.org/10.25911/WJSH-XN56). [Doctoral dissertation, Australian National University (Australia)].
+- Mark, M. (2022). [Self-exciting point processes: Identification and control](https://doi.org/10.5075/epfl-thesis-10991) (Publication No. 10991). \[Doctoral dissertation, EPFL (Switzerland)\].
+- Browning, R. (2023). [Bayesian approaches for modelling discrete-time self-exciting processes and their applications](https://doi.org/10.5204/thesis.eprints.240350) \[Doctoral dissertation, Queensland University of Technology (Australia)\].
