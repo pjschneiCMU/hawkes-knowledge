@@ -123,7 +123,7 @@ In the following, we aim to highlight the general applicability of Hawkes proces
 - Advertising:
   - [63] Xu, L., Duan, J. A., & Whinston, A. (2014). [Path to purchase: A mutually exciting point process model for online advertising and conversion](https://doi.org/10.1287/mnsc.2014.1952). _Management Science_, 60(6), 1392-1412.
  
-## PhD Thesis on Hawkes processes
+## PhD Theses on Hawkes processes
 There have been a couple of entire PhD theses, or at least chapters, focused on Hawkes processes and their extensions.
 - Liniger, T. (2009). [Multivariate Hawkes processes](https://doi.org/10.3929/ethz-a-006037599). \[Doctoral dissertation, ETH Zurich (Switzerland)\].
 - Chehrazi, N. (2013). [Identification and optimization of stochastic systems](http://purl.stanford.edu/zx541yn0318). \[Doctoral dissertation, Stanford University (USA)\].
