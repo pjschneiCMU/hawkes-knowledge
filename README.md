@@ -46,6 +46,7 @@ If you're searching for a reference and not interested in reading a book, here a
 - [18] Jovanović, S., Hertz, J., & Rotter, S. (2015). [Cumulants of Hawkes point processes](https://doi.org/10.1103/PhysRevE.91.042802). _Physical Review E_, 91(4), 042802.
 - [19] Cui, L., Hawkes, A., & Yi, H. (2020). [An elementary derivation of moments of Hawkes processes](https://doi.org/10.1017/apr.2019.53). _Advances in Applied Probability_, 52(1), 102-137.
 - [20] Daw, A. (2024). [Conditional uniformity and Hawkes processes](https://doi.org/10.1287/moor.2022.1348). _Mathematics of Operations Research_, 49(1), 40-57.
+
 Properties relevant for queueing theory:
 - [21] Daw, A., & Pender, J. (2018). [Queues driven by Hawkes processes](https://doi.org/10.1287/stsy.2018.0014). _Stochastic Systems_, 8(3), 192-229.
 - [22] Koops, D. T., Saxena, M., Boxma, O. J., & Mandjes, M. (2018). [Infinite-server queues with Hawkes input](https://doi.org/10.1017/jpr.2018.58). _Journal of Applied Probability_, 55(3), 920-943.
