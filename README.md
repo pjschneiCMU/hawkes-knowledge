@@ -141,3 +141,4 @@ There have been a couple of entire PhD theses, or at least chapters, focused on 
 - Kong, Q. (2022). [Linking epidemic models and self-exciting processes for online and offline event diffusions](https://doi.org/10.25911/WJSH-XN56) [Doctoral dissertation, Australian National University (Australia)].
 - Mark, M. (2022). [Self-exciting point processes: Identification and control](https://doi.org/10.5075/epfl-thesis-10991) (Publication No. 10991). \[Doctoral dissertation, EPFL (Switzerland)\].
 - Browning, R. (2023). [Bayesian approaches for modelling discrete-time self-exciting processes and their applications](https://doi.org/10.5204/thesis.eprints.240350) \[Doctoral dissertation, Queensland University of Technology (Australia)\].
+- Kwan, J. (2023). [Asymptotic analysis and ergodicity of the Hawkes process and its extensions](https://doi.org/10.26190/unsworks/24854) \[Doctoral dissertation, UNSW Sydney (Australia)\].
