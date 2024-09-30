@@ -48,4 +48,4 @@ Stay tuned for what's to come!
 - [42] Morariu-Patrichi, M., & Pakkanen, M. S. (2022). [State-dependent Hawkes processes and their application to limit order book modelling](https://doi.org/10.1080/14697688.2021.1983199). _Quantitative Finance_, 22(3), 563-583.
 - [43] Mark, M., Sila, J., & Weber, T. A. (2022). [Quantifying endogeneity of cryptocurrency markets](https://doi.org/10.1080/1351847X.2020.1791925). _European Journal of Finance_, 28(7), 784-799.
 - [44] Stindl, T. (2023). [Forecasting intraday market risk: A marked self-exciting point process with exogenous renewals](https://doi.org/10.1016/j.jempfin.2022.12.005). _Journal of Empirical Finance_, 70, 182-198.
-- [45] Bondi, A., Pulido, S., & Scotti, S. (2024). [The rough Hawkes Heston stochastic volatility model](https://doi.org/10.1111/mafi.12432). _Mathematical Finance_, 1–45.
+- [45] Bondi, A., Pulido, S., & Scotti, S. (2024). [The rough Hawkes Heston stochastic volatility model](https://doi.org/10.1111/mafi.12432). _Mathematical Finance_, 34(4), 1–45.
