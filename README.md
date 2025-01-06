@@ -72,63 +72,66 @@ Fitting Hawkes processes is a notoriously difficult task. The selection of a sta
   - [32] Mark, M., & Weber, T. A. (2020). [Robust identification of controlled Hawkes processes](https://doi.org/10.1103/PhysRevE.101.043305). _Physical Review E_, 101(4), 043305.
 - Bayesian
   - [33] Rasmussen, J. G. (2013). [Bayesian inference for Hawkes processes](https://doi.org/10.1007/s11009-011-9272-5). _Methodology and Computing in Applied Probability_, 15, 623-642.
-- Non-parametric estimation:
+- Non-parametric:
   - [34] Lewis, E., & Mohler, G. (2011). [A nonparametric EM algorithm for multiscale Hawkes processes](https://www.georgemohler.com/_files/ugd/9226cc_89f6c24da28f4fa385b52d52eaffecc1.pdf). Technical Report.
   - [35] Bacry, E., & Muzy, J. F. (2016). [First-and second-order statistics characterization of Hawkes processes and non-parametric estimation](https://doi.org/10.1109/TIT.2016.2533397). _IEEE Transactions on Information Theory_, 62(4), 2184-2202.
   - [36] Kirchner, M. (2017). [An estimation procedure for the Hawkes process](https://doi.org/10.1080/14697688.2016.1211312). _Quantitative Finance_, 17(4), 571-595.
   - [37] Achab, M., Bacry, E., Gaïffas, S., Mastromatteo, I., & Muzy, J. F. (2017). [Uncovering causality from multivariate Hawkes integrated cumulants](https://proceedings.mlr.press/v70/achab17a.html). In _Proceedings of the 34th International Conference on Machine Learning_, PMLR 70:1-10. [\[Code\]](https://github.com/achab/nphc)
   - [38] Donnet, S., Rivoirard, V., & Rousseau, J. (2020). [Nonparametric Bayesian estimation for multivariate Hawkes processes](https://doi.org/10.1214/19-AOS1903). _Annals of Statistics_, 48(5), 2698-2727. 
-- ...
+- Estimation from time-censored information
+  - [39] Shlomovich, L., Cohen, E. A., Adams, N., & Patel, L. (2022). [Parameter estimation of binned Hawkes processes](https://doi.org/10.1080/10618600.2022.2050247). _Journal of Computational and Graphical Statistics_, 31(4), 990-1000. [\[Code\]](https://github.com/lshlomovich/MCEM-Univariate-Hawkes)
+  - [40] Cheysson, F., & Lang, G. (2022). [Spectral estimation of Hawkes processes from count data](https://doi.org/10.1214/22-AOS2173). _Annals of Statistics_, 50(3), 1722-1746. [\[Code\]](https://github.com/fcheysson/hawkesbow)
+  - [41] Schneider, P. J., & Weber, T. A. (2023). [Estimation of self-exciting point processes from time-censored data](https://doi.org/10.1103/PhysRevE.108.015303). _Physical Review E_, 108(1), 015303.
 
 ## Neural Hawkes processes
 There are several limitations to modeling temporal point processes for extremely high-dimensional data, such as large networks, where each dimension typically represents the activity of an individual, using parametric models following the general Hawkes process paradigm. Consequently, several scholars have demonstrated how to utilize various neural network architectures to overcome the computational challenges faced when adapting these processes.
-- [39] Mei, H., & Eisner, J. M. (2017). [The neural Hawkes process: A neurally self-modulating multivariate point process](https://proceedings.neurips.cc/paper_files/paper/2017/hash/6463c88460bd63bbe256e495c63aa40b-Abstract.html). _Advances in Neural Information Processing Systems_, 30.
-- [40] Du, N., Dai, H., Trivedi, R., Upadhyay, U., Gomez-Rodriguez, M., & Song, L. (2016). [Recurrent marked temporal point processes: Embedding event history to vector](https://doi.org/10.1145/2939672.2939875). In _Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining_ (pp. 1555-1564). [\[Code\]](https://github.com/dunan/NeuralPointProcess)
-- [41] Upadhyay, U., De, A., & Gomez Rodriguez, M. (2018). [Deep reinforcement learning of marked temporal point processes](https://papers.nips.cc/paper_files/paper/2018/hash/71a58e8cb75904f24cde464161c3e766-Abstract.html). _Advances in Neural Information Processing Systems_, 31. [\[Code\]](https://github.com/Networks-Learning/tpprl)
-- [42] Zuo, S., Jiang, H., Li, Z., Zhao, T., & Zha, H. (2020). [Transformer Hawkes process](https://proceedings.mlr.press/v119/zuo20a.html). In _Proceedings of the 37th International Conference on Machine Learning_, PMLR 119:11692-11702. [\[Code\]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process)
-- [43] Zhang, Q., Lipani, A., Kirnap, O., & Yilmaz, E. (2020). [Self-attentive Hawkes process](https://proceedings.mlr.press/v119/zhang20q.html). In _Proceedings of the 37th International Conference on Machine Learning_, PMLR 119:11183-11193. [\[Code\]](https://github.com/QiangAIResearcher/sahp_repo)
-- [44] Mei, H., Yang, C., & Eisner, J. (2022). [Transformer embeddings of irregularly spaced events and their participants](https://openreview.net/forum?id=Rty5g9imm7H). In _International Conference on Learning Representations_. [\[Code\]](https://github.com/yangalan123/anhp-andtt)
-- [45] Zhang, S., Zhou, C., Liu, Y. A., Zhang, P., Lin, X., & Ma, Z. M. (2024). [Neural jump-diffusion temporal point processes](https://proceedings.mlr.press/v235/zhang24cm.html). In _Proceedings of the 41st International Conference on Machine Learning_, PMLR 235:60541-60557.[\[Code\]](https://github.com/Zh-Shuai/NJDTPP)
+- [42] Mei, H., & Eisner, J. M. (2017). [The neural Hawkes process: A neurally self-modulating multivariate point process](https://proceedings.neurips.cc/paper_files/paper/2017/hash/6463c88460bd63bbe256e495c63aa40b-Abstract.html). _Advances in Neural Information Processing Systems_, 30.
+- [43] Du, N., Dai, H., Trivedi, R., Upadhyay, U., Gomez-Rodriguez, M., & Song, L. (2016). [Recurrent marked temporal point processes: Embedding event history to vector](https://doi.org/10.1145/2939672.2939875). In _Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining_ (pp. 1555-1564). [\[Code\]](https://github.com/dunan/NeuralPointProcess)
+- [44] Upadhyay, U., De, A., & Gomez Rodriguez, M. (2018). [Deep reinforcement learning of marked temporal point processes](https://papers.nips.cc/paper_files/paper/2018/hash/71a58e8cb75904f24cde464161c3e766-Abstract.html). _Advances in Neural Information Processing Systems_, 31. [\[Code\]](https://github.com/Networks-Learning/tpprl)
+- [45] Zuo, S., Jiang, H., Li, Z., Zhao, T., & Zha, H. (2020). [Transformer Hawkes process](https://proceedings.mlr.press/v119/zuo20a.html). In _Proceedings of the 37th International Conference on Machine Learning_, PMLR 119:11692-11702. [\[Code\]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process)
+- [46] Zhang, Q., Lipani, A., Kirnap, O., & Yilmaz, E. (2020). [Self-attentive Hawkes process](https://proceedings.mlr.press/v119/zhang20q.html). In _Proceedings of the 37th International Conference on Machine Learning_, PMLR 119:11183-11193. [\[Code\]](https://github.com/QiangAIResearcher/sahp_repo)
+- [47] Mei, H., Yang, C., & Eisner, J. (2022). [Transformer embeddings of irregularly spaced events and their participants](https://openreview.net/forum?id=Rty5g9imm7H). In _International Conference on Learning Representations_. [\[Code\]](https://github.com/yangalan123/anhp-andtt)
+- [48] Zhang, S., Zhou, C., Liu, Y. A., Zhang, P., Lin, X., & Ma, Z. M. (2024). [Neural jump-diffusion temporal point processes](https://proceedings.mlr.press/v235/zhang24cm.html). In _Proceedings of the 41st International Conference on Machine Learning_, PMLR 235:60541-60557.[\[Code\]](https://github.com/Zh-Shuai/NJDTPP)
 
 ## Extensions of Hawkes processes
 - Renewal Hawkes process
-  - [46] Wheatley, S., Filimonov, V., & Sornette, D. (2016). [The Hawkes process with renewal immigration & its estimation with an EM algorithm](https://doi.org/10.1016/j.csda.2015.08.007). _Computational Statistics & Data Analysis_, 94, 120-135.
-  - [47] Chen, F., & Stindl, T. (2018). [Direct likelihood evaluation for the renewal Hawkes process](https://doi.org/10.1080/10618600.2017.1341324). _Journal of Computational and Graphical Statistics_, 27(1), 119-131.
+  - [49] Wheatley, S., Filimonov, V., & Sornette, D. (2016). [The Hawkes process with renewal immigration & its estimation with an EM algorithm](https://doi.org/10.1016/j.csda.2015.08.007). _Computational Statistics & Data Analysis_, 94, 120-135.
+  - [50] Chen, F., & Stindl, T. (2018). [Direct likelihood evaluation for the renewal Hawkes process](https://doi.org/10.1080/10618600.2017.1341324). _Journal of Computational and Graphical Statistics_, 27(1), 119-131.
 - Discrete-time Hawkes process
-  - [48] Browning, R., Sulem, D., Mengersen, K., Rivoirard, V., & Rousseau, J. (2021). [Simple discrete-time self-exciting models can describe complex dynamic processes: A case study of COVID-19](https://doi.org/10.1371/journal.pone.0250015). _PLOS One_, 16(4), e0250015.
-  - [49] Wang, H. (2022). [Limit theorems for a discrete-time marked Hawkes process](https://doi.org/10.1016/j.spl.2022.109368). _Statistics & Probability Letters_, 184, 109368.
-  - [50] Wang, H. (2023). [Large and moderate deviations for a discrete-time marked Hawkes process](https://doi.org/10.1080/03610926.2021.2024236). _Communications in Statistics-Theory and Methods_, 52(17), 6037-6062.
+  - [51] Browning, R., Sulem, D., Mengersen, K., Rivoirard, V., & Rousseau, J. (2021). [Simple discrete-time self-exciting models can describe complex dynamic processes: A case study of COVID-19](https://doi.org/10.1371/journal.pone.0250015). _PLOS One_, 16(4), e0250015.
+  - [52] Wang, H. (2022). [Limit theorems for a discrete-time marked Hawkes process](https://doi.org/10.1016/j.spl.2022.109368). _Statistics & Probability Letters_, 184, 109368.
+  - [53] Wang, H. (2023). [Large and moderate deviations for a discrete-time marked Hawkes process](https://doi.org/10.1080/03610926.2021.2024236). _Communications in Statistics-Theory and Methods_, 52(17), 6037-6062.
 - Recursive extension of Hawkes process
-  - [51] Schoenberg, F. P., Hoffmann, M., & Harrigan, R. J. (2019). [A recursive point process model for infectious diseases](https://doi.org/10.1007/s10463-018-0690-9). _Annals of the Institute of Statistical Mathematics_, 71, 1271-1287.
+  - [54] Schoenberg, F. P., Hoffmann, M., & Harrigan, R. J. (2019). [A recursive point process model for infectious diseases](https://doi.org/10.1007/s10463-018-0690-9). _Annals of the Institute of Statistical Mathematics_, 71, 1271-1287.
 - Quadratic Hawkes process
-  - [52] Blanc, P., Donier, J., & Bouchaud, J. P. (2017). [Quadratic Hawkes processes for financial prices](https://doi.org/10.1080/14697688.2016.1193215). _Quantitative Finance_, 17(2), 171-188.
-  - [53] Aubrun, C., Benzaquen, M., & Bouchaud, J. P. (2023). [Multivariate quadratic Hawkes processes—part I: theoretical analysis](https://doi.org/10.1080/14697688.2023.2178322). _Quantitative Finance_, 23(5), 741-758.
+  - [55] Blanc, P., Donier, J., & Bouchaud, J. P. (2017). [Quadratic Hawkes processes for financial prices](https://doi.org/10.1080/14697688.2016.1193215). _Quantitative Finance_, 17(2), 171-188.
+  - [56] Aubrun, C., Benzaquen, M., & Bouchaud, J. P. (2023). [Multivariate quadratic Hawkes processes—part I: theoretical analysis](https://doi.org/10.1080/14697688.2023.2178322). _Quantitative Finance_, 23(5), 741-758.
 - Ephemerally Hawkes process
-  - [54] Daw, A., & Pender, J. (2022). [An ephemerally self-exciting point process](https://doi.org/10.1017/apr.2021.35). _Advances in Applied Probability_, 54(2), 340-403.
+  - [57] Daw, A., & Pender, J. (2022). [An ephemerally self-exciting point process](https://doi.org/10.1017/apr.2021.35). _Advances in Applied Probability_, 54(2), 340-403.
   
 ## Applications
 In the following, we aim to highlight the general applicability of Hawkes processes to a plethora of applications. The provided references represent just a hand-selected subset of publications. In the subdirectories, we strive to provide a more comprehensive overview of the significant contributions towards adopting Hawkes processes.
 - Earthquake modeling:
-  - [55] Ogata, Y. (1988). [Statistical models for earthquake occurrences and residual analysis for point processes](https://doi.org/10.1080/01621459.1988.10478560). _Journal of the American Statistical Association_, 83(401), 9-27.
-  - [56] Ogata, Y. (1998). [Space-time point-process models for earthquake occurrences](https://doi.org/10.1023/A:1003403601725). _Annals of the Institute of Statistical Mathematics_, 50, 379-402.
+  - [58] Ogata, Y. (1988). [Statistical models for earthquake occurrences and residual analysis for point processes](https://doi.org/10.1080/01621459.1988.10478560). _Journal of the American Statistical Association_, 83(401), 9-27.
+  - [59] Ogata, Y. (1998). [Space-time point-process models for earthquake occurrences](https://doi.org/10.1023/A:1003403601725). _Annals of the Institute of Statistical Mathematics_, 50, 379-402.
 - Social media:
-  - [57] Zhao, Q., Erdogdu, M. A., He, H. Y., Rajaraman, A., & Leskovec, J. (2015). [SEISMIC: A self-exciting point process model for predicting tweet popularity](https://doi.org/10.1145/2783258.2783401). In _Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining_ (pp. 1513-1522). [\[Code\]](https://cran.r-project.org/web/packages/seismic/)
-  - [58] Rizoiu, M. A., Xie, L., Sanner, S., Cebrian, M., Yu, H., & Van Hentenryck, P. (2017). [Expecting to be hip: Hawkes intensity processes for social media popularity](https://doi.org/10.1145/3038912.3052650). In _Proceedings of the 26th International Conference on World Wide Web_ (pp. 735-744).[\[Code\]](https://github.com/andrei-rizoiu/hip-popularity)
-  - [59] Schneider, P. J., & Rizoiu, M. A. (2023). [The effectiveness of moderating harmful online content](https://doi.org/10.1073/pnas.2307360120). _Proceedings of the National Academy of Sciences_, 120(34), e2307360120. [\[Code\]](https://github.com/behavioral-ds/harmful-content-moderation)
+  - [60] Zhao, Q., Erdogdu, M. A., He, H. Y., Rajaraman, A., & Leskovec, J. (2015). [SEISMIC: A self-exciting point process model for predicting tweet popularity](https://doi.org/10.1145/2783258.2783401). In _Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining_ (pp. 1513-1522). [\[Code\]](https://cran.r-project.org/web/packages/seismic/)
+  - [61] Rizoiu, M. A., Xie, L., Sanner, S., Cebrian, M., Yu, H., & Van Hentenryck, P. (2017). [Expecting to be hip: Hawkes intensity processes for social media popularity](https://doi.org/10.1145/3038912.3052650). In _Proceedings of the 26th International Conference on World Wide Web_ (pp. 735-744).[\[Code\]](https://github.com/andrei-rizoiu/hip-popularity)
+  - [62] Schneider, P. J., & Rizoiu, M. A. (2023). [The effectiveness of moderating harmful online content](https://doi.org/10.1073/pnas.2307360120). _Proceedings of the National Academy of Sciences_, 120(34), e2307360120. [\[Code\]](https://github.com/behavioral-ds/harmful-content-moderation)
 - Criminology:
-  - [60] Mohler, G. O., Short, M. B., Brantingham, P. J., Schoenberg, F. P., & Tita, G. E. (2011). [Self-exciting point process modeling of crime](https://doi.org/10.1198/jasa.2011.ap09546). _Journal of the American Statistical Association_, 106(493), 100-108.
+  - [63] Mohler, G. O., Short, M. B., Brantingham, P. J., Schoenberg, F. P., & Tita, G. E. (2011). [Self-exciting point process modeling of crime](https://doi.org/10.1198/jasa.2011.ap09546). _Journal of the American Statistical Association_, 106(493), 100-108.
 - Finance:
-  - [61] Aït-Sahalia, Y., Cacho-Diaz, J., & Laeven, R. J. (2015). [Modeling financial contagion using mutually exciting jump processes](https://doi.org/10.1016/j.jfineco.2015.03.002). _Journal of Financial Economics_, 117(3), 585-606.
-  - [62] Rambaldi, M., Pennesi, P., & Lillo, F. (2015). [Modeling foreign exchange market activity around macroeconomic news: Hawkes-process approach](https://doi.org/10.1103/PhysRevE.91.012819). _Physical Review E_, 91(1), 012819.
-  - [63] Mark, M., Sila, J., & Weber, T. A. (2022). [Quantifying endogeneity of cryptocurrency markets](https://doi.org/10.1080/1351847X.2020.1791925). _European Journal of Finance_, 28(7), 784-799.
+  - [64] Aït-Sahalia, Y., Cacho-Diaz, J., & Laeven, R. J. (2015). [Modeling financial contagion using mutually exciting jump processes](https://doi.org/10.1016/j.jfineco.2015.03.002). _Journal of Financial Economics_, 117(3), 585-606.
+  - [65] Rambaldi, M., Pennesi, P., & Lillo, F. (2015). [Modeling foreign exchange market activity around macroeconomic news: Hawkes-process approach](https://doi.org/10.1103/PhysRevE.91.012819). _Physical Review E_, 91(1), 012819.
+  - [66] Mark, M., Sila, J., & Weber, T. A. (2022). [Quantifying endogeneity of cryptocurrency markets](https://doi.org/10.1080/1351847X.2020.1791925). _European Journal of Finance_, 28(7), 784-799.
 - Epidemiology: 
-  - [64] Rizoiu, M. A., Mishra, S., Kong, Q., Carman, M., & Xie, L. (2018). [SIR-Hawkes: Linking epidemic models and Hawkes processes to model diffusions in finite populations](https://doi.org/10.1145/3178876.3186108). In _Proceedings of the 2018 World Wide Web Conference_ (pp. 419-428). [\[Code\]](https://github.com/computationalmedia/sir-hawkes)
-  - [65] Kim, M., Paini, D., & Jurdak, R. (2019). [Modeling stochastic processes in disease spread across a heterogeneous social system](https://doi.org/10.1073/pnas.1801429116). _Proceedings of the National Academy of Sciences_, 116(2), 401-406.
-  - [66] Bertozzi, A. L., Franco, E., Mohler, G., Short, M. B., & Sledge, D. (2020). [The challenges of modeling and forecasting the spread of COVID-19](https://doi.org/10.1073/pnas.2006520117). _Proceedings of the National Academy of Sciences_, 117(29), 16732-16738. [\[Code\]](https://github.com/gomohler/pnas2020)
+  - [67] Rizoiu, M. A., Mishra, S., Kong, Q., Carman, M., & Xie, L. (2018). [SIR-Hawkes: Linking epidemic models and Hawkes processes to model diffusions in finite populations](https://doi.org/10.1145/3178876.3186108). In _Proceedings of the 2018 World Wide Web Conference_ (pp. 419-428). [\[Code\]](https://github.com/computationalmedia/sir-hawkes)
+  - [68] Kim, M., Paini, D., & Jurdak, R. (2019). [Modeling stochastic processes in disease spread across a heterogeneous social system](https://doi.org/10.1073/pnas.1801429116). _Proceedings of the National Academy of Sciences_, 116(2), 401-406.
+  - [69] Bertozzi, A. L., Franco, E., Mohler, G., Short, M. B., & Sledge, D. (2020). [The challenges of modeling and forecasting the spread of COVID-19](https://doi.org/10.1073/pnas.2006520117). _Proceedings of the National Academy of Sciences_, 117(29), 16732-16738. [\[Code\]](https://github.com/gomohler/pnas2020)
 - Cyber insurance:
-  - [67] Bessy-Roland, Y., Boumezoued, A., & Hillairet, C. (2021). [Multivariate Hawkes process for cyber insurance](https://doi.org/10.1017/S1748499520000093). _Annals of Actuarial Science_, 15(1), 14-39.
+  - [70] Bessy-Roland, Y., Boumezoued, A., & Hillairet, C. (2021). [Multivariate Hawkes process for cyber insurance](https://doi.org/10.1017/S1748499520000093). _Annals of Actuarial Science_, 15(1), 14-39.
 - Advertising:
-  - [68] Xu, L., Duan, J. A., & Whinston, A. (2014). [Path to purchase: A mutually exciting point process model for online advertising and conversion](https://doi.org/10.1287/mnsc.2014.1952). _Management Science_, 60(6), 1392-1412.
+  - [71] Xu, L., Duan, J. A., & Whinston, A. (2014). [Path to purchase: A mutually exciting point process model for online advertising and conversion](https://doi.org/10.1287/mnsc.2014.1952). _Management Science_, 60(6), 1392-1412.
  
 ## PhD Theses on Hawkes processes
 There have been a couple of entire PhD theses, or at least chapters, focused on Hawkes processes and their extensions.
